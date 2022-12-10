@@ -1,0 +1,2 @@
+deployiTCMP.sh filter=lfs diff=lfs merge=lfs -text
+iTCMP-Lite-x86_64-v1.0_online_installer.tar.gz filter=lfs diff=lfs merge=lfs -text
