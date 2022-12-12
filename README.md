@@ -4,7 +4,7 @@
 
 一款免费多云资源管理软件，可同时管理多个云平台环境，采用B/S架构设计，通过Web浏览器即可访问。 
 
-![image-20221212215058110](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221212215058110.png)
+![图片](https://user-images.githubusercontent.com/118461387/207062764-5d257003-7585-4a78-adfc-e90ee5f9da73.png)
 
 
 
