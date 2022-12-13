@@ -26,3 +26,12 @@ CPU:4C
 #./deployiTCMP.sh -f iTCMP-Lite-x86_64-v1.0_online_installer.tar.gz
 ```
 
+离线部署
+
+```
+下载地址
+链接：https://pan.baidu.com/s/1g8zv3SyWoBWT0Xke6ETPTQ?pwd=g1u9 
+提取码：g1u9 
+#chmod +x deployiTCMP.sh
+#./deployiTCMP.sh -f iTCMP-Lite-x86_64-v1.0.tar.gz
+```
