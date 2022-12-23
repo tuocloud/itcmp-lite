@@ -17,7 +17,7 @@
 CPU:4C
 内存:8G
 
-在线部署
+##### 在线部署
 
 ```
 在线部署脚本需要部署的服务器能够通外网访问docker hub
@@ -26,7 +26,7 @@ CPU:4C
 #./deployiTCMP.sh -f iTCMP-Lite-x86_64-v1.0_online_installer.tar.gz
 ```
 
-离线部署
+##### 离线部署
 
 ```
 下载地址
@@ -35,3 +35,5 @@ CPU:4C
 #chmod +x deployiTCMP.sh
 #./deployiTCMP.sh -f iTCMP-Lite-x86_64-v1.0.tar.gz
 ```
+##### iTCMP-Lite技术交流01群
+![](https://img2023.cnblogs.com/blog/1094495/202212/1094495-20221223134057701-2103758581.jpg)
